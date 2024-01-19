@@ -8,7 +8,7 @@ Make sure that you have git app for Windows installed (No need to open it).
 
 open command prompt and run the following lines of code
 
-git clone ...
+git clone https://github.com/Simphiwe-303/Garden.git
 
 cd Garden
 
@@ -32,7 +32,7 @@ Make sure that your docker daemon service is up. To start your daemon service:
 sudo service docker start
 
 
-git clone ...
+git clone https://github.com/Simphiwe-303/Garden.git
 
 cd Garden
 
